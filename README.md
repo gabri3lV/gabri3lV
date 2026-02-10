@@ -1,8 +1,7 @@
 ## Hello World 👋
 
 - 🔭 I’m currently studying at **UNIFAL-MG**
-- 🌱 I’m currently learning **C, C++, Java**
-- ☁️ **AWS** enthusiast
+- 🌱 I’m currently learning **C, C++, Java, Python, Go**
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
